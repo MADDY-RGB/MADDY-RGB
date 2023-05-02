@@ -1,7 +1,7 @@
 ![MasterHead](https://previews.123rf.com/images/karpenkoilia/karpenkoilia1806/karpenkoilia180600011/102988806-vector-line-web-concept-for-programming-linear-web-banner-for-coding.jpg)
 <h1 align="center">Hi! 👋, Madhavan Pari here</h1>
-<h3 align="center">A passionate human deep diving the rabbit hole called INTERNET 💻</h3>
-<hr>
+<h3 align="center">I'm deep diving the rabbit hole called INTERNET 💻</h3>
+<p>-------------------------------------------------------------------------------------------------------------------------------------------------------------------------</p>
 <img align="right" alt="hustle" width="400" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 
 - 🌱 I’m currently learning **C , doing OVERTHEWIRE challenges and cs50x courses**
