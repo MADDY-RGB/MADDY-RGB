@@ -4,11 +4,11 @@
 <p>-------------------------------------------------------------------------------------------------------------------------------------------------------</p>
 <img align="right" alt="hustle" width="400" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 
-- 🌱 I’m currently learning **C , doing OVERTHEWIRE challenges and cs50x courses**
+- 🌱 I’m currently learning **C Python, doing OVERTHEWIRE challenges and cs50x courses**
 
 - 📝 I regularly write articles on [https://figur8-newsletter.beehiiv.com/subscribe](https://figur8-newsletter.beehiiv.com/subscribe)
 
-- 💬 Ask me about **HTML, CSS, C and Linux**
+- 💬 Ask me about **HTML, CSS, C, Python and Linux**
 
 - 📫 How to reach me **testingprojects132@gmail.com**
 
